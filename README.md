@@ -72,7 +72,7 @@ python3 main.py
 
 
 ## Version
-* `v5.0 Sms-Bomb`
+* `v7.0 Sms-Bomb`
 
 ## Features
 * `B#omb the number unlimited,Custom-sms`
