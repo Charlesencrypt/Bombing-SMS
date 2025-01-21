@@ -1,7 +1,6 @@
 # Bombing-SMS
 <h1 align="center">Sms-Bombv7.0<br>
 </h1>
-<img src="smsbombv7.png" alt="Paris" class="center">
 * `📱 💀`<br />
 * `A Sms-Bomber for termux & Linux `
 
